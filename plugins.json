@@ -75,5 +75,16 @@
     "plugin_type": "NORMAL",
     "is_dir": true,
     "github_url": "https://github.com/molanp/zhenxun_plugin_niuniu"
+  },
+  "真寻农场": {
+    "module": "zhenxun_plugin_farm",
+    "module_path": "zhenxun_plugin_farm",
+    "description": "真寻农场",
+    "usage": "真寻农场\n    @小真寻 开通农场\n    我的农场币\n    种子商店 [页数]\n    购买种子 [作物/种子名称] [数量]\n    我的种子\n    播种 [种子名称] [数量]\n    收获\n    铲除\n    我的作物\n    出售作物 [作物名称] [数量]\n    @美波理 偷菜\n 购买农场币[数量]",
+    "author": "Shu-Ying",
+    "version": "1.0",
+    "plugin_type": "NORMAL",
+    "is_dir": true,
+    "github_url": "https://github.com/Shu-Ying/zhenxun_plugin_farm"
   }
 }

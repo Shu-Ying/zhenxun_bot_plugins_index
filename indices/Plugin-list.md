@@ -11,3 +11,4 @@
 | [游戏立绘抽卡](https://github.com/PackageInstaller/zhenxun_plugin_draw_painting/tree/master) | [@PackageInstaller](https://github.com/PackageInstaller) | 从本地图片库中随机抽取游戏人物立绘 |
 | [AI全家桶](https://github.com/molanp/zhenxun_plugin_zhipu_toolkit) | [@molanp](https://github.com/molanp) | AI全家桶，一次安装，到处使用，省时省力省心 |
 | [牛牛大作战](https://github.com/molanp/zhenxun_plugin_niuniu) | [@molanp](https://github.com/molanp) | 牛牛大作战，男同快乐游 |
+| [真寻农场](https://github.com/Shu-Ying/zhenxun_plugin_farm) | [@Shu-Ying](https://github.com/Shu-Ying) | 真寻农场 |
